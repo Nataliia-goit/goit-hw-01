@@ -1,5 +1,6 @@
 # Logs
 logs
+my-passwords.txt
 *.log
 npm-debug.log*
 yarn-debug.log*
